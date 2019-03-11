@@ -1,6 +1,6 @@
 # Shopping
 
-This project includes solution for Codility Test.
+This project includes solution for Shoppingcart Codility Test.
 
 
 ## Requirements
